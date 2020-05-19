@@ -1,6 +1,8 @@
 # egok360
 A 360 EGOCENTRIC KINETIC HUMAN ACTIVITY VIDEO DATASET
 
+    Abstract:
+    
     Recently, there has been a growing interest in wearable sensors which provides new research perspectives 
     for 360° video analysis. However, the lack of 360° datasets in literature hinders the research in this 
     field. To bridge this gap, in this paper we propose a novel Egocentric (first-person) 360° Kinetic human 
