@@ -12,3 +12,12 @@ A 360 EGOCENTRIC KINETIC HUMAN ACTIVITY VIDEO DATASET
     with a 360° environmental setup, which will facilitate the egocentric 360° video understanding. 
     We provide experimental results and comprehensive analysis of variants of the two-stream network for 360 
     egocentric activity recognition.
+
+TEMPORARY DATASET LINK
+https://txst-my.sharepoint.com/:f:/g/personal/k_b459_txstate_edu/EgFAtsjiQOVDrAhqKQkD3FABSjVKahnY037Z3GSEgCHzvA?e=gAcgO0
+
+
+Note: this is a temporary link which may expire pretty soon. We will keep updating valid link and soon move this data set to some fix location.
+
+If you have any queries 
+email @ : keshav.s.bhandari@gmail.com
